@@ -1,0 +1,3 @@
+# roger-skyline-1
+
+All operations were done on virtual box debian(9.6) in terminal. Google any command that you don't understand for more clearance
